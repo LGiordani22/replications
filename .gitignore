@@ -1,0 +1,7 @@
+# papers are linked from each README, not redistributed
+paper/
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
