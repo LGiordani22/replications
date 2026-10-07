@@ -17,3 +17,7 @@ pip install -r requirements.txt
 Then open a notebook from its own folder (paths to `data/` and `figures/` are relative). Every notebook runs top to bottom with fixed seeds and reproduces the stored outputs.
 
 The papers themselves are not included; each README links to them.
+
+## License
+
+The code and notebooks are released under the [MIT License](LICENSE). The data files are not covered by it: they come from FRED and from the papers' authors, and remain subject to their sources' terms (each data file names its source).
